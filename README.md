@@ -1,3 +1,3 @@
 # RSI Trading Bot
 
-Binance Crypto Trading Bot utilising RSI to buy and sell ETH
+Crypto Trading Bot utilising the RSI indicator to buy and sell ETH on Binance
